@@ -1,6 +1,6 @@
 # Collaborative Summarizer 📝
 
-A web application built with Streamlit and powered by Llama 3 to provide text summarization capabilities. You can upload PDF files or input text directly to get a concis summary.
+A web application built with Streamlit and powered by Llama 3 to provide text summarization capabilities. You can upload PDF files or input text directly to get concise summary.
 
 ## Table of Contents
 - [Features](#features)
