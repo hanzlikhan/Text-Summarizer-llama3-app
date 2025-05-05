@@ -23,7 +23,7 @@ A web application built with Streamlit and powered by Llama 3 to provide text su
 To run the project locally, follow these steps:
 
 1. **Clone the Repository**
-
+  - how to run on kocal Device 
     ```bash
     git clone https://github.com/yourusername/your-repo-name.git
     cd your-repo-name
