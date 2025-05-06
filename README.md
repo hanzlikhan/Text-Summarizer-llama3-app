@@ -33,7 +33,7 @@ To run the project locally, follow these steps:
      - virtual environment is important tto create for to make version control
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    source venv/bin/activate  # On for window `venv\Scripts\activate`
     ```
 
 3. **Install Dependencies**
